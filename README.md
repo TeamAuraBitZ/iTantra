@@ -18,6 +18,8 @@ This makes voice-based alerts and communication possible in **low-bandwidth, no-
 Built entirely with **open-source, on-device ML** — no cloud APIs, no proprietary SDKs, fully functional on low/mid-range Android hardware.
 
 ---
+<img width="2720" height="3120" alt="workflow" src="https://github.com/user-attachments/assets/85eeb239-0ab5-47e8-9588-da71f330737c" />
+
 
 ## 2. Core Constraints (from the official PS)
 
